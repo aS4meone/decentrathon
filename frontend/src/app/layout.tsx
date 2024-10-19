@@ -2,6 +2,7 @@ import {Metadata} from "next";
 import {Manrope} from "next/font/google";
 import "./globals.css";
 import React from "react";
+import Header from "@/components/Header";
 
 const inter = Manrope({subsets: ["latin"]});
 
